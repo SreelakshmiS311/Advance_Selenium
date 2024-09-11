@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-03T18:43:38 IST" name="Suite" finished-at="2024-09-03T18:44:26 IST" duration-ms="47985">
+    <groups>
+    </groups>
+    <test started-at="2024-09-03T18:43:38 IST" name="Test" finished-at="2024-09-03T18:44:26 IST" duration-ms="47985">
+      <class name="Product.CreateProductTest">
+        <test-method is-config="true" signature="BC()[pri:0, instance:Product.CreateProductTest@436813f3]" started-at="2024-09-03T18:44:03 IST" name="BC" finished-at="2024-09-03T18:44:05 IST" duration-ms="1400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:Product.CreateProductTest@436813f3]" started-at="2024-09-03T18:44:05 IST" name="BM" finished-at="2024-09-03T18:44:09 IST" duration-ms="4380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="CreateProductTest()[pri:0, instance:Product.CreateProductTest@436813f3]" started-at="2024-09-03T18:44:09 IST" name="CreateProductTest" finished-at="2024-09-03T18:44:24 IST" duration-ms="14617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProductTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Product.CreateProductTest@436813f3]" started-at="2024-09-03T18:44:24 IST" name="AM" finished-at="2024-09-03T18:44:26 IST" duration-ms="1817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:Product.CreateProductTest@436813f3]" started-at="2024-09-03T18:44:26 IST" name="AC" finished-at="2024-09-03T18:44:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- Product.CreateProductTest -->
+      <class name="OrganisationNew.CreateOrganizationTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:43:38 IST" name="BS" finished-at="2024-09-03T18:43:38 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:43:38 IST" name="BT" finished-at="2024-09-03T18:43:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:43:38 IST" name="BC" finished-at="2024-09-03T18:43:40 IST" duration-ms="2111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:43:40 IST" name="BM" finished-at="2024-09-03T18:43:45 IST" duration-ms="5329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="CreateOrganizationTest()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:43:45 IST" name="CreateOrganizationTest" finished-at="2024-09-03T18:44:02 IST" duration-ms="16789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrganizationTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:44:02 IST" name="AM" finished-at="2024-09-03T18:44:03 IST" duration-ms="1501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:44:03 IST" name="AC" finished-at="2024-09-03T18:44:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:44:26 IST" name="AT" finished-at="2024-09-03T18:44:26 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:OrganisationNew.CreateOrganizationTest@1189dd52]" started-at="2024-09-03T18:44:26 IST" name="AS" finished-at="2024-09-03T18:44:26 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- OrganisationNew.CreateOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

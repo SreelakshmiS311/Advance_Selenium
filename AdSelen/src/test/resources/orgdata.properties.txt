@@ -1,0 +1,7 @@
+url http://localhost:8888
+username admin
+password admin
+name Test
+phone 6767666543
+email test@gmail.com
+Browser chrome
